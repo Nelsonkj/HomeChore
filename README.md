@@ -1,2 +1,7 @@
-# HomeChore
-Tired of not being able to get anything done? Looking to run the house like an IT Department? I got you. Introducing HomeChore an innovative way to manage the house hold by tasks!
+Tired of never getting anything done around the house?
+Want to run your home like a well-oiled IT Department?
+We got you covered.
+
+Introducing HomeChore —
+An innovative task management system built to keep your household running smoothly.
+Assign, track, and conquer chores with the efficiency of an IT pro.
